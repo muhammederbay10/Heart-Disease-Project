@@ -1,8 +1,0 @@
-0. An end to Workflow
-1. Getting the Data Ready
-2. Choose The Right Estimator/Algorithm for our Problem ,
-3. fit the Model/Algorithm and use it to make predictions on our Data
-4. Evaluating the Data
-5. Improve The Model
-6. Save and load a trained model 
-7. Putting it All Together 
